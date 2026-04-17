@@ -1,29 +1,30 @@
-# WBG-Code-Samples
 # World Bank DECDI / DIME: Code Samples
 
 **Author:** Varun Vinod Rao  
 **Role:** Candidate for Research Assistant & Field Coordinator (Spring 2026)
 
 ## Overview
-This repository contains sample code highlighting my proficiency in data architecture, automated cleaning pipelines, and applied econometrics. The scripts provided demonstrate cross-language competencies (Python and Stata) utilized in dynamic, real-world research environments. 
+This repository contains sample code highlighting my proficiency in automated data processing, applied econometrics, and reproducible research. The scripts provided demonstrate cross-language competencies (Python and Stata).
 
-Due to Non-Disclosure Agreements (NDAs) and data privacy protocols associated with my research at the University of Cambridge and UC Berkeley Haas, the datasets cannot be shared, and the code snippets have been sanitized/anonymized. However, they accurately reflect the logic, syntax, and reproducible workflows I employ.
+**Note on Proprietary Code:** Due to strict NDAs and data privacy protocols associated with my Research Assistant roles at the University of Cambridge (handling granular RBI administrative data) and UC Berkeley Haas (handling FINO Payments Bank merchant data), the proprietary scripts for those projects cannot be publicly shared. 
+
+To demonstrate my syntax, structural logic, and coding proficiency, I have provided advanced, reproducible scripts authored during my quantitative coursework at the LSE.
 
 ---
 
 ## File Structure & Descriptions
 
-### 1. `haas_fino_data_pipeline.py` (Python)
-**Context:** Written during my tenure as a Research Assistant at UC Berkeley Haas for the Digital Finance Ecosystem initiative.
+### 1. `LSE_Macroeconomics_Productivity_Analysis.ipynb` (Python)
+**Context:** Authored to simulate macroeconomic dynamics and evaluate long-term economic trends.
 **Function:** * Demonstrates automated data processing using `pandas` and `NumPy`.
-* Automates the synthesis and operationalization of complex financial services data for the FINO Payments Bank in rural India.
-* Includes syntax for handling missing variables, reshaping data arrays, and establishing programmatic logic for survey routing and merchant integration.
+* Automates the synthesis, cleaning, and operationalization of macroeconomic datasets to calculate labour productivity and GDP per worker.
+* Showcases reproducible data visualization workflows utilizing `matplotlib` and `seaborn` to generate clean, publication-ready outputs.
 
-### 2. `cambridge_rbi_financial_access.do` (Stata)
-**Context:** Written while assisting a PhD economist at the University of Cambridge auditing firm-level financial access across Indian districts.
-**Function:** * Demonstrates advanced econometric modelling and administrative data management.
-* Showcases the cleaning, merging, and appending of massive, granular Reserve Bank of India (RBI) datasets.
-* Highlights the use of advanced econometric packages (including `reghdfe`, `ivreg2`, and `xtreg`) to isolate causal interpretations from noisy administrative data, alongside standard panel diagnostics.
+### 2. `LSE_Applied_Econometrics.do` (Stata)
+**Context:** Authored for applied econometric analysis, demonstrating the translation of raw data into robust empirical models.
+**Function:** * Demonstrates the execution of advanced data transformations (e.g., Inverse Hyperbolic Sine transformations to handle skewed distributions).
+* Highlights the structuring of fixed-effects regressions and the interpretation of causal relationships.
+* Showcases clean, heavily documented, and highly reproducible Stata syntax that mirrors the pipelines I use for large-scale administrative datasets.
 
 ---
-*Note: All code is authored by Varun Vinod Rao. These scripts represent excerpts from larger, collaborative replication packages.*
+*Note: All code is solely authored by Varun Vinod Rao.*
