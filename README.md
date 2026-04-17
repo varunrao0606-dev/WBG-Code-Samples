@@ -1,4 +1,4 @@
-# World Bank DECDI / DIME: Code Samples
+# Code Samples
 
 **Author:** Varun Vinod Rao  
 **Role:** Candidate for Research Assistant & Field Coordinator (Spring 2026)
