@@ -1,7 +1,6 @@
 # Code Samples
 
 **Author:** Varun Vinod Rao  
-**Role:** Candidate for Research Assistant & Field Coordinator (Spring 2026)
 
 ## Overview
 This repository contains sample code highlighting my proficiency in automated data processing, applied econometrics, and reproducible research. The scripts provided demonstrate cross-language competencies (Python and Stata).
